@@ -13,7 +13,7 @@
       "maintenance": "1",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
-      "gogo_url": "https://dramacool.pa",
+      "base_url": "https://dramacool.pa",
       "current_version": "1.0.0"
     }
   ]
