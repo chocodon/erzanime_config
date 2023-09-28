@@ -10,7 +10,7 @@
       "main_ads_interstitial": "f468ccadbf8a2dd1",
       "backup_ads_interstitial": "",
       "interstitial_counter": "15",
-      "maintenance": "1",
+      "maintenance": "0",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
       "base_url": "https://dramacool.pa",
