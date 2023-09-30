@@ -11,7 +11,7 @@
       "backup_ads_interstitial": "",
       "interstitial_counter": "15",
       "maintenance": "0",
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
       "base_url": "https://dramacool.pa",
       "current_version": "1.1.1"
