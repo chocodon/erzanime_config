@@ -14,7 +14,7 @@
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
       "base_url": "https://dramacool.pa",
-      "current_version": "1.1.2"
+      "current_version": "1.0.0"
     }
   ]
 }
