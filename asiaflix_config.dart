@@ -13,7 +13,7 @@
       "maintenance": "0",
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.devgpg.drama_tv",
-      "base_url": "https://runasian.net/",
+      "base_url": "https://dramacool.com.pa/",
       "current_version": "1.0.0"
     }
   ]
