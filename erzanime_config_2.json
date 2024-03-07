@@ -14,10 +14,10 @@
       "interstitial_counter": "15",
       "rewarded_counter": "2",
       "maintenance": "0",
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
       "gogo_url": "https://www.gogoanime.tw/",
-      "current_version": "1.0.0",
+      "current_version": "1.0.4",
       "message" : {
         "show": "1",
         "type": "error",
