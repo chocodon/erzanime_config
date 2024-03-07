@@ -14,17 +14,17 @@
       "interstitial_counter": "15",
       "rewarded_counter": "2",
       "maintenance": "0",
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
       "gogo_url": "https://gogoanime3.co/",
-      "current_version": "1.0.4",
+      "current_version": "1.0.3",
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Something Wrong",
         "description": "There is error with the server, we will inform later if the problem solved",
         "redirected_url": "https://gogoanime3.co/",
-        "use_redirect_action": "1"
+        "use_redirect_action": "0"
       }
     }
   ]
