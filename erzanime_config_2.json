@@ -19,7 +19,7 @@
       "gogo_url": "https://gogoanime3.co/",
       "current_version": "1.0.4",
       "message" : {
-        "show": "2",
+        "show": "1",
         "type": "error",
         "title": "Something Wrong",
         "description": "There is error with the server, we will inform later if the problem solved",
