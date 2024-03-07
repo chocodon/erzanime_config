@@ -5,18 +5,27 @@
       "select_backup_ads": "",
       "initialize_sdk": "xsAggNRQ4k1GQb0_7kokF0K6Is_aJqn7dbqN3kV2TM7ww1LggFKTEMt3ovK0SDz2XPgsGl_4oag4NSh1upc8My",
       "initialize_sdk_backup": "",
-      "main_ads_banner": "a80a74a0af7781e7",
+      "main_ads_banner": "0ac9bc5fa3546122",
       "backup_ads_banner": "",
-      "main_ads_interstitial": "f468ccadbf8a2dd1",
+      "main_ads_interstitial": "e3441384131c0bc7",
       "backup_ads_interstitial": "",
-      "main_ads_rewarded": "",
-      "backup_ads_rewarded": "",
+      "main_ads_rewarded": "1d17239e8ecae22b",
+      "backup_ads_rewarded":"",
       "interstitial_counter": "15",
-      "maintenance": "1",
+      "rewarded_counter": "2",
+      "maintenance": "0",
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.awpinc.erzanime",
-      "gogo_url": "https://www.gogoanime.tw/",
-      "current_version": "1.0.4"
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
+      "gogo_url": "https://gogoanime3.co/",
+      "current_version": "1.0.3",
+      "message" : {
+        "show": "0",
+        "type": "error",
+        "title": "Something Wrong",
+        "description": "There is error with the server, we will inform later if the problem solved",
+        "redirected_url": "https://gogoanime3.co/",
+        "use_redirect_action": "0"
+      }
     }
   ]
 }
