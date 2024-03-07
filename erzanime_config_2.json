@@ -9,14 +9,23 @@
       "backup_ads_banner": "",
       "main_ads_interstitial": "e3441384131c0bc7",
       "backup_ads_interstitial": "",
-      "main_ads_rewarded": "",
-      "backup_ads_rewarded": "",
+      "main_ads_rewarded": "1d17239e8ecae22b",
+      "backup_ads_rewarded":"",
       "interstitial_counter": "15",
+      "rewarded_counter": "2",
       "maintenance": "0",
-      "status_app": "1",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.awpinc.erzanime",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
       "gogo_url": "https://gogoanime3.co/",
-      "current_version": "1.0.4"
+      "current_version": "1.0.3",
+      "message" : {
+        "show": "0",
+        "type": "error",
+        "title": "Something Wrong",
+        "description": "There is error with the server, we will inform later if the problem solved",
+        "redirected_url": "https://gogoanime3.co/",
+        "use_redirect_action": "0"
+      }
     }
   ]
 }
