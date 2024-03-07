@@ -3,7 +3,7 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads": "",
-      "initialize_sdk": "xsAggNRQ4k1GQb0_7kokF0K6Is_aJqn7dbqN3kV2TM7ww1LggFKTEMt3ovK0SDz2XPgsGl_4oag4NSh1upc8MyAWP",
+      "initialize_sdk": "xsAggNRQ4k1GQb0_7kokF0K6Is_aJqn7dbqN3kV2TM7ww1LggFKTEMt3ovK0SDz2XPgsGl_4oag4NSh1upc8My",
       "initialize_sdk_backup": "",
       "main_ads_banner": "0ac9bc5fa3546122",
       "backup_ads_banner": "",
@@ -19,7 +19,7 @@
       "gogo_url": "https://gogoanime3.co/",
       "current_version": "1.0.3",
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Something Wrong",
         "description": "There is error with the server, we will inform later if the problem solved",
