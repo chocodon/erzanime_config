@@ -22,9 +22,7 @@
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "We would like to inform you that our app will be undergoing maintenance today, We hope that this maintenance process can be completed as soon as possible. Thank you for your attention and support.
-
-Thank You.",
+        "description": "We would like to inform you that our app will be undergoing maintenance today, We hope that this maintenance process can be completed as soon as possible. Thank you for your attention and support.Thank You.",
         "redirected_url": "https://gogoanime3.co/",
         "use_redirect_action": "0"
       }
