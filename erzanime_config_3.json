@@ -21,7 +21,7 @@
       "message" : {
         "show": "1",
         "type": "error",
-        "title": "Something Wrong",
+        "title": "Notification",
         "description": "We would like to inform you that our app will be undergoing maintenance on Monday, [11/03/24], starting During this period, the app may be inaccessible while we make necessary updates and fixes",
         "redirected_url": "https://gogoanime3.co/",
         "use_redirect_action": "0"
