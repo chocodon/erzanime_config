@@ -19,7 +19,7 @@
       "gogo_url": "https://gogoanime3.co/",
       "current_version": "1.0.7",
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Notification",
         "description": "",
