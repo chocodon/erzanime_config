@@ -19,10 +19,11 @@
       "gogo_url": "https://gogoanime3.co/",
       "current_version": "1.0.7",
       "message" : {
-        "show": "0",
+        "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "We would like to inform you that our app will be undergoing maintenance today, We hope that this maintenance process can be completed as soon as possible. Thank you for your attention and support.Thank You.",
+        "description": "The Erzanime application is currently no longer available on Google Playstore, we will try to release it again on Google Playstore, until then Erzanime can still function as usual until the next update, if you still have further questions, please contact erzanimeapp@gmail.com,
+Thank You",
         "redirected_url": "https://gogoanime3.co/",
         "use_redirect_action": "0"
       }
