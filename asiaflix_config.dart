@@ -10,7 +10,7 @@
       "main_ads_interstitial": "5842bd9b258fbd8e",
       "backup_ads_interstitial": "",
       "interstitial_counter": "15",
-      "maintenance": "0",
+      "maintenance": "1",
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.devgpg.drama_tv",
       "base_url": "https://dramacool.com.pa/",
