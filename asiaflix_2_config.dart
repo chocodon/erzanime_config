@@ -14,7 +14,7 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.devgpg.drama_tv",
       "base_url": "https://dramacool.com.pa/",
-      "current_version": "1.1.1",
+      "current_version": "1.0.0",
       "main_ads_rewarded": "8c93fbfa8332af76",
       "rewarded_counter": 1
     }
