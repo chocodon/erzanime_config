@@ -19,11 +19,11 @@
       "gogo_url": "https://www.gogoanime.tw/",
       "current_version": "1.1.1",
       "message" : {
-        "show": "0",
+        "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "Erzanime is currently no longer available on Playstore, we will try to release it again, Erzanime still functions as usual until the latest release, thank you",
-        "redirected_url": "https://gogoanime3.co/",
+        "description": "Erzanime is currently experiencing server issues. We are conducting maintenance to address the problem.",
+        "redirected_url": "",
         "use_redirect_action": "0"
       }
     }
