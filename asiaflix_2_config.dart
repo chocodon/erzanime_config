@@ -16,7 +16,7 @@
       "base_url": "https://dramacool.com.pa/",
       "current_version": "1.0.0",
       "main_ads_rewarded": "8c93fbfa8332af76",
-      "backup_ads_rewarded": "ca-app-pub-3810129401881131/1716306033",
+      "backup_ads_rewarded": "ca-app-pub-3810129401881131/5479844119",
       "rewarded_counter": 1
     }
   ]
