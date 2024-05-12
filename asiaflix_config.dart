@@ -14,7 +14,7 @@
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.drama.asiaflix_tv",
       "base_url": "https://dramacool.com.pa/",
-      "current_version": "1.1.1"
+      "current_version": "1.1.2"
     }
   ]
 }
