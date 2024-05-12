@@ -11,8 +11,8 @@
       "backup_ads_interstitial": "",
       "interstitial_counter": "15",
       "maintenance": "0",
-      "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.devgpg.drama_tv",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.drama.asiaflix_tv",
       "base_url": "https://dramacool.com.pa/",
       "current_version": "1.1.1"
     }
