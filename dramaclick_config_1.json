@@ -1,0 +1,23 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "",
+      "initialize_sdk": "XrQNR1fFZJoeJfN4DgkFqU9NJlg8F5TkJ1yBTc8CfS4EkdndXfkPXB7d8pkBm_gUrE7GrCU3DB7zXGJtqNmQ1n",
+      "initialize_sdk_backup": "",
+      "main_ads_banner": "229c31817baff575",
+      "backup_ads_banner": "",
+      "main_ads_interstitial": "f4bd858c101d8ad6",
+      "backup_ads_interstitial": "",
+      "interstitial_counter": "15",
+      "maintenance": "0",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.devgpg.drama_tv",
+      "base_url": "https://kissasian.pm/",
+      "current_version": "1.0.0",
+      "main_ads_rewarded": "613a449f24f8ae23",
+      "backup_ads_rewarded": "",
+      "rewarded_counter": 1
+    }
+  ]
+}
