@@ -19,12 +19,12 @@
       "gogo_url": "https://gogoanime3.co/",
       "current_version": "1.1.0",
       "message" : {
-        "show": "0",
+        "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "Erzanime is currently experiencing server issues. We are conducting maintenance to address the problem.",
-        "redirected_url": "",
-        "use_redirect_action": "0"
+        "description": "Erzanime will be rebranded as AnimeChoice. If you're interested in the beta version, please join our Telegram group for updates!.",
+        "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
+        "use_redirect_action": "1"
       }
     }
   ]
