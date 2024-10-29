@@ -1,0 +1,31 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "",
+      "initialize_sdk": "xsAggNRQ4k1GQb0_7kokF0K6Is_aJqn7dbqN3kV2TM7ww1LggFKTEMt3ovK0SDz2XPgsGl_4oag4NSh1upc8My",
+      "initialize_sdk_backup": "",
+      "main_ads_banner": "2ffd3e491dd90045",
+      "backup_ads_banner": "",
+      "main_ads_interstitial": "102dd8c4d9949387",
+      "backup_ads_interstitial": "",
+      "main_ads_rewarded": "c83f2d6d45f3d4dc",
+      "backup_ads_rewarded":"",
+      "interstitial_counter": "15",
+      "rewarded_counter": "1",
+      "maintenance": "0",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.awp.erzanime",
+      "gogo_url": "https://gogoanime3.co/",
+      "current_version": "1.1.0",
+      "message" : {
+        "show": "1",
+        "type": "error",
+        "title": "Notification",
+        "description": "Erzanime will be rebranded as AnimeChoice. If you're interested in the beta version, please join our Telegram group for updates!.",
+        "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
+        "use_redirect_action": "1"
+      }
+    }
+  ]
+}
