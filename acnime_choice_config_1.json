@@ -19,12 +19,12 @@
       "gogo_url": "https://gogoanime3.co/",
       "current_version": "1.1.0",
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Notification",
         "description": "Erzanime will be rebranded as AnimeChoice. If you're interested in the beta version, please join our Telegram group for updates!.",
         "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
-        "use_redirect_action": "1"
+        "use_redirect_action": "0"
       }
     }
   ]
