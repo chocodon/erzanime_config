@@ -16,15 +16,15 @@
       "maintenance": "0",
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awp.erzanime",
-      "gogo_url": "https://anitaku.bz/home.html",
+      "gogo_url": "https://gogoanime3.cc/",
       "current_version": "1.1.0",
       "message" : {
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "The AnimeChoice server is currently undergoing maintenance. Please bear with us and thank you for your patience.",
+        "description": "Erzanime has now rebranded as AnimeChoice. We are currently working on releasing the app and will notify you as soon as it’s available on the Google Play Store. Stay tuned!",
         "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
-        "use_redirect_action": "1"
+        "use_redirect_action": "0"
       }
     }
   ]
