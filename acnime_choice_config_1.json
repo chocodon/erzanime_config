@@ -16,10 +16,10 @@
       "maintenance": "0",
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awp.erzanime",
-      "gogo_url": "https://anitaku.bz/home.html",
+      "gogo_url": "https://gogoanime3.cc/",
       "current_version": "1.1.0",
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Notification",
         "description": "The AnimeChoice server is currently undergoing maintenance. Please bear with us and thank you for your patience.",
