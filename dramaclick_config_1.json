@@ -5,9 +5,9 @@
       "select_backup_ads": "",
       "initialize_sdk": "XrQNR1fFZJoeJfN4DgkFqU9NJlg8F5TkJ1yBTc8CfS4EkdndXfkPXB7d8pkBm_gUrE7GrCU3DB7zXGJtqNmQ1n",
       "initialize_sdk_backup": "",
-      "main_ads_banner": "229c31817baff575",
+      "main_ads_banner": "c6476bfeb7a8d397",
       "backup_ads_banner": "",
-      "main_ads_interstitial": "f4bd858c101d8ad6",
+      "main_ads_interstitial": "390994d22100ac99",
       "backup_ads_interstitial": "",
       "interstitial_counter": "15",
       "maintenance": "0",
@@ -15,7 +15,7 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=com.devgpg.drama_tv",
       "base_url": "https://ww1.dramacool.do/",
       "current_version": "1.0.0",
-      "main_ads_rewarded": "613a449f24f8ae23",
+      "main_ads_rewarded": "dd7c44be3cac097a",
       "backup_ads_rewarded": "",
       "rewarded_counter": 1
     }
