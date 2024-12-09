@@ -19,7 +19,7 @@
       "gogo_url": "https://gogoanime3.cc/",
       "current_version": "1.0.0",
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Notification",
         "description": "The server is currently experiencing issues. We are working to resolve them and will inform you as soon as the service is back to normal.",
