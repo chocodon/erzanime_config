@@ -19,12 +19,12 @@
       "gogo_url": "https://gogoanime3.cc/",
       "current_version": "1.0.1",
       "message" : {
-        "show": "0",
+        "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "The server is currently experiencing issues. We are working to resolve them and will inform you as soon as the service is back to normal.",
-        "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
-        "use_redirect_action": "0"
+        "description": "AniErz Watch Donghua & Anime",
+        "redirected_url": "https://play.google.com/store/apps/details?id=com.anierz.ani",
+        "use_redirect_action": "1"
       }
     }
   ]
