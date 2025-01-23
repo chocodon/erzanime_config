@@ -22,9 +22,9 @@
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "Many latest anime and donghua are available on AniErz, though some episodes may not be live yet.",
+        "description": "The server is currently experiencing issues. We are working to resolve it as quickly as possible. We apologize for the inconvenience.",
         "redirected_url": "https://play.google.com/store/apps/details?id=com.anierz.ani",
-        "use_redirect_action": "1"
+        "use_redirect_action": "0"
       }
     }
   ]
