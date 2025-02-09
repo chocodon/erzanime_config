@@ -15,7 +15,7 @@
       "rewarded_counter": "1",
       "maintenance": "0",
       "status_app": "1",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.anierz.ani",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.awp.anierz",
       "gogo_url": "https://gogoanime3.cc/",
       "current_version": "1.1.0",
       "message" : {
@@ -23,8 +23,8 @@
         "type": "error",
         "title": "Notification",
         "description": "Erzanime has now rebranded as AnimeChoice. We are currently working on releasing the app and will notify you as soon as it’s available on the Google Play Store. Stay tuned!",
-        "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
-        "use_redirect_action": "0"
+        "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
+        "use_redirect_action": "1"
       }
     }
   ]
