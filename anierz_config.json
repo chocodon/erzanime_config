@@ -25,12 +25,12 @@
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "The server is currently experiencing issues. We are working to resolve them and will inform you as soon as the service is back to normal.",
+        "description": "The server is down. Click the link for the upcoming Play Store version.",
         "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
-        "use_redirect_action": "0"
+        "use_redirect_action": "1"
       },
       "timer_inters_type": "1",
-      "timer_inters_counter": "15",
+      "timer_inters_counter": "14",
       "show_inters_first_open_episode": false
     }
   ]
