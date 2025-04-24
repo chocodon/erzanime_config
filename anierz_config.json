@@ -22,12 +22,12 @@
       "current_version": "1.0.4",
       "show_important_information": false,
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Notification",
         "description": "The server is down. Click the link for the upcoming Play Store version.",
         "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
-        "use_redirect_action": "1"
+        "use_redirect_action": "0"
       },
       "timer_inters_type": "1",
       "timer_inters_counter": "14",
