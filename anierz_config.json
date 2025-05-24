@@ -25,9 +25,9 @@
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "Server issue. We're fixing it ASAP. Thanks for your patience.",
-        "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
-        "use_redirect_action": "0"
+        "description": "Love at first tap? Show us some stars so we can keep the magic coming!",
+        "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
+        "use_redirect_action": "1"
       },
       "timer_inters_type": "1",
       "timer_inters_counter": "14",
