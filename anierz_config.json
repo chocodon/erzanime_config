@@ -25,12 +25,12 @@
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "Love at first tap? Show us some stars so we can keep the magic coming!",
+        "description": "Like a true senpai, guide us with your 5 stars and honest review.",
         "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
         "use_redirect_action": "1"
       },
       "timer_inters_type": "1",
-      "timer_inters_counter": "14",
+      "timer_inters_counter": "12",
       "show_inters_first_open_episode": false
     }
   ]
