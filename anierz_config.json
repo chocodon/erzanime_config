@@ -13,7 +13,7 @@
       "backup_ads_rewarded":"",
       "main_ads_mrec": "ef54bfd8a243175f",
       "backup_ads_mrec":"",
-      "interstitial_counter": "8",
+      "interstitial_counter": "4",
       "rewarded_counter": "1",
       "maintenance": "0",
       "status_app": "1",
@@ -30,7 +30,7 @@
         "use_redirect_action": "1"
       },
       "timer_inters_type": "1",
-      "timer_inters_counter": "12",
+      "timer_inters_counter": "10",
       "show_inters_first_open_episode": false
     }
   ]
