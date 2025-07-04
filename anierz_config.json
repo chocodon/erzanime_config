@@ -29,7 +29,7 @@
         "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
         "use_redirect_action": "1"
       },
-      "timer_inters_type": "1",
+      "timer_inters_type": "0",
       "timer_inters_counter": "10",
       "show_inters_first_open_episode": false
     }
