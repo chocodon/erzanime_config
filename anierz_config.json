@@ -18,14 +18,14 @@
       "maintenance": "0",
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awp.anierz",
-      "gogo_url": "https://animesugez.tv/home",
+      "gogo_url": "https://animesugetv.se/home",
       "current_version": "1.0.4",
       "show_important_information": false,
       "message" : {
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "💖 ✨ Like a true senpai, guide us with your 5 stars ⭐⭐⭐⭐⭐ and honest review",
+        "description": "💖 ✨ ⚠️ Server’s down—our ninja squad’s on it! Thanks for waiting, senpai! ⚔️🔥",
         "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
         "use_redirect_action": "1"
       },
