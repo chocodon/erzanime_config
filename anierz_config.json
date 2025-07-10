@@ -29,8 +29,8 @@
         "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
         "use_redirect_action": "1"
       },
-      "timer_inters_type": "0",
-      "timer_inters_counter": "10",
+      "timer_inters_type": "1",
+      "timer_inters_counter": "2",
       "show_inters_first_open_episode": false
     }
   ]
