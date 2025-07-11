@@ -3,7 +3,7 @@
     {
       "select_main_ads": "APPLOVIN-M",
       "select_backup_ads": "",
-      "initialize_sdk": "AWPxsAggNRQ4k1GQb0_7kokF0K6Is_aJqn7dbqN3kV2TM7ww1LggFKTEMt3ovK0SDz2XPgsGl_4oag4NSh1upc8My",
+      "initialize_sdk": "xsAggNRQ4k1GQb0_7kokF0K6Is_aJqn7dbqN3kV2TM7ww1LggFKTEMt3ovK0SDz2XPgsGl_4oag4NSh1upc8My",
       "initialize_sdk_backup": "",
       "main_ads_banner": "0984cc892e2cb45f",
       "backup_ads_banner": "",
@@ -19,14 +19,14 @@
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awp.anierz",
       "gogo_url": "https://animesugez.tv/home",
-      "current_version": "1.0.4",
+      "current_version": "1.0.5",
       "show_important_information": false,
       "message" : {
         "show": "0",
         "type": "error",
         "title": "Notification",
-        "description": "💖 ✨ ⚠️ Server’s down—our ninja squad’s on it! Thanks for waiting, senpai! ⚔️🔥",
-        "redirected_url": "https://t.me/+jvi1imwCghhkNDQ1",
+        "description": "💖✨ Like a true senpai, guide us with your 5 stars ⭐⭐⭐⭐⭐ and honest review",
+        "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
         "use_redirect_action": "1"
       },
       "timer_inters_type": "1",
