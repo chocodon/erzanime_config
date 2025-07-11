@@ -22,7 +22,7 @@
       "current_version": "1.0.4",
       "show_important_information": false,
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Notification",
         "description": "💖 ✨ ⚠️ Server’s down—our ninja squad’s on it! Thanks for waiting, senpai! ⚔️🔥",
