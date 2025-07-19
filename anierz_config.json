@@ -22,7 +22,7 @@
       "current_version": "1.0.6",
       "show_important_information": false,
       "message" : {
-        "show": "0",
+        "show": "1",
         "type": "error",
         "title": "Notification",
         "description": "💖 ✨ Arigatou, senpai~ Thanks for the coffee ☕🌸 Tap if you want to share one too~",
