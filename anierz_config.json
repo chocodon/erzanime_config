@@ -22,7 +22,7 @@
       "current_version": "1.0.10",
       "show_important_information": false,
       "message" : {
-        "show": "0",
+        "show": "1",
         "type": "error",
         "title": "Notification",
         "description": "💖✨ Like a true senpai, guide us with your 5 stars ⭐⭐⭐⭐⭐ and honest review",
