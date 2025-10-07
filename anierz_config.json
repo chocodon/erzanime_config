@@ -27,7 +27,7 @@
         "title": "Notification",
         "description": "✨ Like a true senpai, guide us with your 5 stars ⭐⭐⭐⭐⭐ and honest review",
         "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
-        "use_redirect_action": "0"
+        "use_redirect_action": "1"
       },
       "timer_inters_type": "1",
       "timer_inters_counter": "2",
