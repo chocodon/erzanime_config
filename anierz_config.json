@@ -25,9 +25,9 @@
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "Hai, Senpai~ ✨Update akan segera hadir! Bersiaplah untuk pengalaman yang lebih lancar dan lebih baik! 💫",
+        "description": "Hey Senpai~ ✨An update is coming soon! Get ready for a smoother and better experience! 💫",
         "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
-        "use_redirect_action": "1"
+        "use_redirect_action": "0"
       },
       "timer_inters_type": "1",
       "timer_inters_counter": "2",
