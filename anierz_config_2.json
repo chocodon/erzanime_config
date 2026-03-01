@@ -19,13 +19,14 @@
       "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awp.anierz",
       "gogo_url": "https://anisuge.tv/home",
-      "current_version": "1.0.13",
+      "current_version": "1.0.14",
       "show_important_information": false,
       "message" : {
         "show": "1",
         "type": "error",
         "title": "Notification",
-        "description": "✨ Server error, please use another server for now, Senpai.",
+        "description": "✨ Like a true senpai, guide us with your 5 stars ⭐⭐⭐⭐⭐ and honest review
+",
         "redirected_url": "https://play.google.com/store/apps/details?id=com.awp.anierz",
         "use_redirect_action": "1"
       },
