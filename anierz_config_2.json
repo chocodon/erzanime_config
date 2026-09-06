@@ -22,7 +22,7 @@
       "current_version": "1.0.14",
       "show_important_information": false,
       "message" : {
-        "show": "1",
+        "show": "0",
         "type": "error",
         "title": "Notification",
         "description": "✨ Wafa Haddadi senpai for the positive comment and rating 😊✨",
