@@ -22,7 +22,7 @@
       "current_version": "1.0.14",
       "show_important_information": false,
       "message" : {
-        "show": "2",
+        "show": "1",
         "type": "error",
         "title": "Notification",
         "description": "We’re currently experiencing an issue. We’ll work to fix it as soon as possible. Thank you for your patience!",
